@@ -1,0 +1,17 @@
+{
+  "name": "はなして",
+  "short_name": "はなして",
+  "description": "発達グレーゾーンの子どものことで不安な夜に、専門AIへ相談できるサービスです。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1D9E75",
+  "icons": [
+    {
+      "src": "/assets/mascot.png",
+      "sizes": "660x675",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
